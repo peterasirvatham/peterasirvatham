@@ -1,98 +1,121 @@
-- 👋 Hi, I'm **Peter Leonard Paul Asirvatham**, a Cloud Architect & Technology Innovator based in Atlanta, GA
-- 👀 I'm interested in cloud migration, data engineering, and building scalable, cloud-native systems on AWS
-- 🌱 I'm always learning. Lately that means generative AI on AWS
-- 💞️ I'm looking to collaborate on cloud modernization, data platforms, and enterprise architecture
-- 📫 How to reach me: [asir.peter@gmail.com](mailto:asir.peter@gmail.com) · [peterasirvatham.com](https://peterasirvatham.com)
-- ⚡ Fun fact: I got into programming by building my own version of *Ball & Paddle*
+<h1 align="center">Peter Leonard Paul Asirvatham</h1>
+
+<p align="center">
+  <b>Senior Technical Architect | Cloud · Full Stack · Integration · DevOps | AWS · Java · Spring</b><br/>
+  <i>Modernizing enterprise systems into secure, scalable, cloud-native architectures on AWS</i><br/>
+  📍 Atlanta area (Alpharetta), GA
+</p>
+
+<p align="center">
+  <a href="#-about">About</a> ·
+  <a href="#-highlights">Highlights</a> ·
+  <a href="#-featured-work">Featured Work</a> ·
+  <a href="#-writing">Writing</a> ·
+  <a href="#-certifications">Certifications</a> ·
+  <a href="#-experience">Experience</a> ·
+  <a href="#-connect">Connect</a>
+</p>
 
 ---
 
-### 🙋‍♂️ About
+- 👋 Hi, I'm **Peter**, a Senior Technical Architect at Hexaware Technologies
+- 👀 I'm interested in cloud-native architecture, enterprise integration, and data engineering on AWS
+- 🌱 I'm currently learning GenAI/RAG on AWS and agentic AI
+- 💞️ I'm looking to collaborate on cloud modernization, integration, and data platforms
+- 📫 I'm open to conversations about **Technical Architect, Cloud Architect, Integration Lead, and DevOps/CloudOps** roles. See Connect below
 
-I was born and raised in a small village in South Tamil Nadu, India. Games like *Ball & Paddle*, *Dave*, and *Bricks* made me curious about how software is built, and that curiosity turned into a career in technology that started in 2005. Today I design and modernize enterprise systems on AWS as a Lead Architect at Fannie Mae.
+### 🙋 About
 
-My faith is at the center of my life. I try to live with purpose and to be salt and light wherever I go, and I'm grateful for every step of the journey.
+I grew up in a small village in South Tamil Nadu, India, where games like *Ball & Paddle*, *Dave*, and *Bricks* made me curious about how software is built. My first real project was my own version of Ball & Paddle. Since 2005 I've designed and delivered enterprise systems for banking, trading, eCommerce, hospitality, payments, and mortgage finance clients, and today I lead architecture for cloud and full-stack delivery.
 
-### 🛠️ What I Do
+Faith is at the center of my life. I try to live with purpose and to be salt and light wherever I go, and I'm grateful for every step of the journey.
 
-- **Cloud Migration Architect**: End-to-end migration of enterprise systems to AWS, re-platforming legacy batch workloads into cloud-native architectures with CloudFormation, Docker, Airflow, Step Functions, AWS Batch, ECS Fargate, and Glue.
-- **Full-Stack Development**: Enterprise applications with Java, Spring Boot, microservices, REST APIs, JavaScript frameworks, and modern CI/CD.
-- **Data Engineering Architect**: Ingestion pipelines and ETL/ELT frameworks on Glue, Lambda, Step Functions, S3, RDS/Aurora, and DynamoDB, plus resilient messaging with SQS, SNS, IBM MQ, and Apache Storm.
-- **Technical Manager & Cross-Functional Solutions Architect**: Leading teams across application development, cloud platforms, and data engineering to deliver high-quality results.
+### 🏆 Highlights
 
-### 🧰 Tech Stack
+- **Hexaware Learning Ambassador** and **Hexaware MVP**
+- Recognized by **Hexavarsity Americas** (2026) for leadership, mentoring, and knowledge sharing
+- Mentor colleagues on AWS, GenAI/RAG, and cloud migration
+- Active **AWS Certified Generative AI Developer – Professional**, **Data Engineer – Associate**, and **AI Practitioner**
 
-**Languages**
+### 🧩 What I Do
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+- **Cloud migration & modernization**: re-platforming legacy batch workloads onto AWS with CloudFormation, Docker, Airflow, Step Functions, AWS Batch, ECS Fargate, and Glue
+- **Full-stack development**: Java, Spring Boot, microservices, REST APIs, JavaScript frameworks, and CI/CD
+- **Data engineering & integration**: ETL/ELT pipelines on Glue, Lambda, S3, RDS/Aurora, and DynamoDB, plus messaging with SQS, SNS, IBM MQ, Apache Storm, and MuleSoft
+- **Technical leadership**: leading cross-functional teams across development, cloud, QA, DevOps, and data
 
-**Frameworks & Tools**
+### 🚀 Featured Work
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Storm](https://img.shields.io/badge/Apache%20Storm-225593?style=for-the-badge&logo=apachestorm&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+**Fannie Mae Investor Reporting: Cloud Microservices on AWS**<br/>
+Spring Boot microservices and REST APIs on ECS Fargate with SQS and DynamoDB; authentication and role-based access control; batch/ETL reporting workloads.
 
-**AWS**
+**FleetCor Vendor & Payment Processing: Apache Storm + AWS**<br/>
+Large-scale vendor processing with Apache Storm and Spring Batch; Lambda, SQS, and DynamoDB workflows; message-driven integrations.
 
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge)
-![ECS Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=for-the-badge)
-![AWS Batch](https://img.shields.io/badge/AWS%20Batch-FF9900?style=for-the-badge)
-![Step Functions](https://img.shields.io/badge/Step%20Functions-FF9900?style=for-the-badge)
-![Glue](https://img.shields.io/badge/Glue-FF9900?style=for-the-badge)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge)
-![RDS / Aurora](https://img.shields.io/badge/RDS%20%2F%20Aurora-FF9900?style=for-the-badge)
-![Redshift](https://img.shields.io/badge/Redshift-FF9900?style=for-the-badge)
-![SQS / SNS](https://img.shields.io/badge/SQS%20%2F%20SNS-FF9900?style=for-the-badge)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge)
+**SAP Commerce / MuleSoft Integration: Rodan + Fields & Greenlee**<br/>
+SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order integration, and Avalara tax services.
 
-**Databases & DevOps**
+### 📝 Writing
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+- **Tech notes:** [AWS Certified Generative AI Developer – Professional (AIP-C01) study notes](https://peterasirvatham.com/tpages/GenAI-AIP-C01.html) · [AWS Certified AI Practitioner (AIF-C01) notes](https://peterasirvatham.com/tpages/aif-c01.html)
+- **Faith & reflections:** [The Identity](https://peterasirvatham.com/pages/theidentity.html) · [Nehemiah's Rebuild](https://peterasirvatham.com/pages/rebuild.html) · [Stand Still](https://peterasirvatham.com/pages/standstill.html)
 
-### 🏅 AWS Certifications
+### 🏅 Certifications
 
-- AWS Certified Generative AI Developer – Professional
-- AWS Certified Solutions Architect – Professional
-- AWS Certified Data Engineer – Associate
-- AWS Certified AI Practitioner
-- AWS Certified Solutions Architect – Associate
+| Active | Issued |
+| --- | --- |
+| AWS Certified Generative AI Developer – Professional | May 2026 |
+| AWS Certified AI Practitioner | Feb 2026 |
+| AWS Certified Data Engineer – Associate | Apr 2025 |
+
+<details>
+<summary>Earlier certifications</summary>
+
+| Certification | Issued |
+| --- | --- |
+| AWS Certified Solutions Architect – Professional | 2023 |
+| MuleSoft Certified Developer | Oct 2021 |
+| AWS Certified Solutions Architect – Associate | 2021 |
+| SAP Commerce Cloud 6.7 Developer | May 2019 |
+| SAP Certified Development Professional – SAP Hybris Commerce 6.2 Developer | May 2018 |
+
+</details>
 
 ### 💼 Experience
 
-| Period | Role | Organization |
-| --- | --- | --- |
-| May 2022 – Present | Lead Architect, Investor Reporting | Fannie Mae · Atlanta |
-| Sep 2017 – May 2022 | Offshore Lead, Payment & Vendor Processing | FleetCor · Chennai |
-| Nov 2015 – Aug 2017 | Integration Lead, B2B/B2C eCommerce | Rodan + Fields · Chennai |
-| Jun 2014 – Oct 2015 | Full Stack Developer, B2B/B2C eCommerce | Greenlee (Textron) · Chennai |
-| — | Architect, IVR (Interactive Voice Response) | Hilton Hotels · Chennai |
-| May 2012 – May 2013 | Offshore Lead, IVR Banking | ABN AMRO Bank N.V. · Amstelveen, NL |
-| Feb 2011 – May 2012 | Migration Lead, Travel Route Planner | PostNord · Copenhagen, DK |
-| Nov 2008 – Feb 2011 | Lead | United Nations Framework Convention on Climate Change · Cardiff, Wales |
-| Sep 2007 – Nov 2008 | Java Developer, Electronic Trading System | DSP Merrill Lynch · Mumbai |
-| Mar 2005 – Aug 2007 | Sr Java Developer, Biz Apollo | Biz-2-Me · Florida / Chennai |
+| Period | Role | Company | Key clients / work |
+| --- | --- | --- | --- |
+| Jun 2022 – Present | Senior Technical Architect | Hexaware Technologies | Lead architect for enterprise cloud/full-stack delivery, incl. Fannie Mae Investor Reporting |
+| Sep 2017 – May 2022 | Technical Architect | Hexaware Technologies | FleetCor vendor & payment processing (Storm, Spring Batch, Lambda/SQS/DynamoDB); led offshore delivery |
+| May 2014 – Aug 2017 | Senior Lead Engineer | BORN | SAP Commerce/Hybris integration lead: Rodan + Fields, Greenlee (Textron), Biolase, Thomas Pink |
+| Jun 2013 – May 2014 | Technical Lead | Servion Global Solutions | Hilton Hotels IVR (Avaya, Spring, web services) |
+| Nov 2008 – May 2013 | Project Lead | CGI | ABN AMRO Bank IVR (Amstelveen, NL); UNFCCC registry platform (Cardiff, Wales) |
+| Feb 2011 – May 2012 | Migration Lead | Client engagement | PostNord Travel Route Planner (Copenhagen, DK) |
+| Sep 2007 – Oct 2008 | Team Lead | Merrill Lynch (now Bank of America) | Electronic trading / order management (Mumbai) |
+| Mar 2005 – Aug 2007 | Sr Software Engineer | Aspire Systems | Biz Apollo / Biz-2-Me reward engines; VCAMPUS LMS |
+
+### 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Storm](https://img.shields.io/badge/Apache%20Storm-225593?style=for-the-badge&logo=apachestorm&logoColor=white)
+![SAP Commerce](https://img.shields.io/badge/SAP%20Commerce-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS ECS Fargate](https://img.shields.io/badge/AWS-ECS%20Fargate-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS Step Functions](https://img.shields.io/badge/AWS-Step%20Functions-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS Glue](https://img.shields.io/badge/AWS-Glue-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS SQS / SNS](https://img.shields.io/badge/AWS-SQS%20%2F%20SNS-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-FF9900?style=for-the-badge&labelColor=232F3E)
 
 ### 🎓 Education
 
@@ -102,6 +125,9 @@ My faith is at the center of my life. I try to live with purpose and to be salt 
 
 ### 🤝 Connect
 
-[![Website](https://img.shields.io/badge/Website-peterasirvatham.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peterasirvatham.com)
-[![Email](https://img.shields.io/badge/Email-asir.peter%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asir.peter@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-peterasirvatham-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/peterasirvatham/)
+<p align="left">
+  <a href="https://peterasirvatham.com"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/peterasirvatham/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/></a>
+  <a href="mailto:asir.peter@gmail.com"><img alt="Email" src="https://img.shields.io/badge/asir.peter%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/asir_peter"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
