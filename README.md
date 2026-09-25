@@ -1,14 +1,24 @@
+<p align="center">
+  <img src="assets/peter-circle.png" alt="Peter Leonard Paul Asirvatham" width="160"/>
+</p>
+
 <h1 align="center">Peter Leonard Paul Asirvatham</h1>
 
+<h3 align="center">Senior Technical Architect | Cloud · Full Stack · Integration · DevOps | AWS · Java · Spring</h3>
+
 <p align="center">
-  <b>Senior Technical Architect | Cloud · Full Stack · Integration · DevOps | AWS · Java · Spring</b><br/>
-  <i>Modernizing enterprise systems into secure, scalable, cloud-native architectures on AWS</i><br/>
-  📍 Atlanta area (Alpharetta), GA
+  <i>Modernizing enterprise systems into secure, scalable, cloud-native architectures on AWS</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-20%2B%20years-5F88E0?style=flat-square" alt="20+ years of experience"/>
+  <img src="https://img.shields.io/badge/Certifications-8-5F88E0?style=flat-square" alt="8 certifications"/>
+  <img src="https://img.shields.io/badge/Location-Atlanta%20area%20(Alpharetta)%2C%20GA-01143E?style=flat-square" alt="Atlanta area (Alpharetta), GA"/>
 </p>
 
 <p align="center">
   <a href="#-about">About</a> ·
-  <a href="#-highlights">Highlights</a> ·
+  <a href="#-achievements">Achievements</a> ·
   <a href="#-featured-work">Featured Work</a> ·
   <a href="#-writing">Writing</a> ·
   <a href="#-certifications">Certifications</a> ·
@@ -18,24 +28,28 @@
 
 ---
 
-- 👋 Hi, I'm **Peter**, a Senior Technical Architect at Hexaware Technologies
-- 👀 I'm interested in cloud-native architecture, enterprise integration, and data engineering on AWS
-- 🌱 I'm currently learning GenAI/RAG on AWS and agentic AI
-- 💞️ I'm looking to collaborate on cloud modernization, integration, and data platforms
-- 📫 I'm open to conversations about **Technical Architect, Cloud Architect, Integration Lead, and DevOps/CloudOps** roles. See Connect below
+- 👋 Hi there, I'm **Peter**, a Senior Technical Architect at Hexaware Technologies
+- 👀 Passionate about cloud-native architecture, enterprise integration, and data engineering on AWS
+- 🌱 Currently exploring GenAI/RAG on AWS and agentic AI
+- 💞️ Always happy to collaborate on cloud modernization, integration, and data platforms
+- 📫 Open to conversations about **Technical Architect, Cloud Architect, Integration Lead, and DevOps/CloudOps** roles. See Connect below
 
 ### 🙋 About
 
-I grew up in a small village in South Tamil Nadu, India, where games like *Ball & Paddle*, *Dave*, and *Bricks* made me curious about how software is built. My first real project was my own version of Ball & Paddle. Since 2005 I've designed and delivered enterprise systems for banking, trading, eCommerce, hospitality, payments, and mortgage finance clients, and today I lead architecture for cloud and full-stack delivery.
+I grew up in a small village in South Tamil Nadu, India, where games like *Ball & Paddle*, *Dave*, and *Bricks* made me curious about how software is built. My first real project was my own version of Ball & Paddle. That curiosity grew into a career building enterprise systems for banking, trading, eCommerce, hospitality, payments, and mortgage finance clients, and today I lead architecture for cloud and full-stack delivery.
 
 Faith is at the center of my life. I try to live with purpose and to be salt and light wherever I go, and I'm grateful for every step of the journey.
 
-### 🏆 Highlights
+### 🏆 Achievements
 
-- **Hexaware Learning Ambassador** and **Hexaware MVP**
-- Recognized by **Hexavarsity Americas** (2026) for leadership, mentoring, and knowledge sharing
-- Mentor colleagues on AWS, GenAI/RAG, and cloud migration
-- Active **AWS Certified Generative AI Developer – Professional**, **Data Engineer – Associate**, and **AI Practitioner**
+- 🗓️ **20+ years** in software, building enterprise systems since 2005
+- 🌍 Delivered for clients across the **US, India, the Netherlands** (Amstelveen), **Denmark** (Copenhagen), and the **UK** (Cardiff, Wales)
+- 🏅 **8 professional certifications** across AWS, MuleSoft, and SAP
+- 🏆 **Hexaware Learning Ambassador** and **Hexaware MVP**
+- 🌟 Recognized by **Hexavarsity Americas** (2026) for leadership, mentoring, and knowledge sharing
+- 🧑‍🏫 Mentor colleagues on AWS, GenAI/RAG, and cloud migration
+- 📚 Published free study notes for the AWS GenAI Developer – Professional and AI Practitioner exams, used by exam candidates
+- ☁️ Redesigned my personal website and host it on AWS
 
 ### 🧩 What I Do
 
@@ -61,6 +75,12 @@ SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order
 - **Faith & reflections:** [The Identity](https://peterasirvatham.com/pages/theidentity.html) · [Nehemiah's Rebuild](https://peterasirvatham.com/pages/rebuild.html) · [Stand Still](https://peterasirvatham.com/pages/standstill.html)
 
 ### 🏅 Certifications
+
+<p align="left">
+  <img src="https://images.credly.com/size/120x120/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer – Professional" width="100"/>
+  <img src="https://images.credly.com/size/120x120/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Certified Data Engineer – Associate" width="100"/>
+  <img src="https://images.credly.com/size/120x120/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="100"/>
+</p>
 
 | Active | Issued |
 | --- | --- |
