@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/peter-circle.png" alt="Peter Leonard Paul Asirvatham" width="160"/>
-</p>
+
 
 <h1 align="center">Peter Leonard Paul Asirvatham</h1>
 
