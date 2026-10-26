@@ -2,7 +2,7 @@
 
 <h1 align="center">Peter Leonard Paul Asirvatham</h1>
 
-<h3 align="center">Senior Technical Architect | Cloud · Full Stack · Integration · DevOps | AWS · Java · Spring</h3>
+<h3 align="center">Senior Technical Architect | Cloud · Full Stack · Integration · AIOps | AWS · Java · Spring</h3>
 
 <p align="center">
   <i>Modernizing enterprise systems into secure, scalable, cloud-native architectures on AWS</i>
@@ -28,9 +28,9 @@
 
 -  Hi there, I'm **Peter**, a Senior Technical Architect at Hexaware Technologies
 -  Passionate about cloud-native architecture, enterprise integration, and data engineering on AWS
--  Currently exploring GenAI/RAG on AWS and agentic AI
+-  Currently implementing AIOps for SRE observability and exploring GenAI/RAG on AWS and agentic AI
 -  Always happy to collaborate on cloud modernization, integration, and data platforms
--  Open to conversations about **Technical Architect, Cloud Architect, Integration Lead, and DevOps/CloudOps** roles. See Connect below
+-  Open to conversations about **Technical Architect, Cloud Architect, Integration Lead, and AIOps/CloudOps** roles. See Connect below
 
 ###  About
 
@@ -54,9 +54,13 @@ Faith is at the center of my life. I try to live with purpose and to be salt and
 - **Cloud migration & modernization**: re-platforming legacy batch workloads onto AWS with CloudFormation, Docker, Airflow, Step Functions, AWS Batch, ECS Fargate, and Glue
 - **Full-stack development**: Java, Spring Boot, microservices, REST APIs, JavaScript frameworks, and CI/CD
 - **Data engineering & integration**: ETL/ELT pipelines on Glue, Lambda, S3, RDS/Aurora, and DynamoDB, plus messaging with SQS, SNS, IBM MQ, Apache Storm, and MuleSoft
-- **Technical leadership**: leading cross-functional teams across development, cloud, QA, DevOps, and data
+- **AIOps & observability**: implementing dynamic thresholding, anomaly detection, and adaptive baselines using time-series analysis and z-score bands, along with alert correlation and noise reduction through alert-storm suppression, a service dependency graph, and time-window correlation
+- **Technical leadership**: leading cross-functional teams across development, cloud, QA, AIOps, and data
 
 ###  Featured Work
+
+**Freddie Mac Global Operations Center: AIOps for SRE Observability & Monitoring**<br/>
+End-to-end observability on AWS with AWS Distro for OpenTelemetry (ADOT), Amazon Managed Service for Prometheus, Amazon Managed Grafana, CloudWatch, and X-Ray/Application Signals. Applies dynamic thresholding, anomaly detection, and adaptive baselines with time-series z-score bands, and reduces alert noise through storm suppression, service dependency graphs, and time-window correlation.
 
 **Fannie Mae Investor Reporting: Cloud Microservices on AWS**<br/>
 Spring Boot microservices and REST APIs on ECS Fargate with SQS and DynamoDB; authentication and role-based access control; batch/ETL reporting workloads.
@@ -103,7 +107,8 @@ SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order
 
 | Period | Role | Company | Key clients / work |
 | --- | --- | --- | --- |
-| Jun 2022 – Present | Senior Technical Architect | Hexaware Technologies | Lead architect for enterprise cloud/full-stack delivery, incl. Fannie Mae Investor Reporting |
+| Jan 2026 – Present | Senior Technical Architect | Hexaware Technologies | AIOps implementation for observability and monitoring in SRE at Freddie Mac Global Operations Center |
+| Jun 2022 – Dec 2025 | Senior Technical Architect | Hexaware Technologies | Lead architect for enterprise cloud/full-stack delivery, incl. Fannie Mae Investor Reporting |
 | Sep 2017 – May 2022 | Technical Architect | Hexaware Technologies | FleetCor vendor & payment processing (Storm, Spring Batch, Lambda/SQS/DynamoDB); led offshore delivery |
 | May 2014 – Aug 2017 | Senior Lead Engineer | BORN | SAP Commerce/Hybris integration lead: Rodan + Fields, Greenlee (Textron), Biolase, Thomas Pink |
 | Jun 2013 – May 2014 | Technical Lead | Servion Global Solutions | Hilton Hotels IVR (Avaya, Spring, web services) |
@@ -126,6 +131,9 @@ SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenTelemetry / ADOT](https://img.shields.io/badge/OpenTelemetry%20%2F%20ADOT-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&labelColor=232F3E)
 ![AWS ECS Fargate](https://img.shields.io/badge/AWS-ECS%20Fargate-FF9900?style=for-the-badge&labelColor=232F3E)
@@ -134,6 +142,12 @@ SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order
 ![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=for-the-badge&labelColor=232F3E)
 ![AWS SQS / SNS](https://img.shields.io/badge/AWS-SQS%20%2F%20SNS-FF9900?style=for-the-badge&labelColor=232F3E)
 ![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS Managed Prometheus](https://img.shields.io/badge/AWS-Managed%20Prometheus-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS Managed Grafana](https://img.shields.io/badge/AWS-Managed%20Grafana-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF9900?style=for-the-badge&labelColor=232F3E)
+![AWS X-Ray](https://img.shields.io/badge/AWS-X--Ray-FF9900?style=for-the-badge&labelColor=232F3E)
+
+**AIOps skills:** anomaly detection · time-series analysis · z-score bands · alert correlation · SRE
 
 ###  Education
 
