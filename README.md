@@ -2,7 +2,7 @@
 
 <h1 align="center">Peter Leonard Paul Asirvatham</h1>
 
-<h3 align="center">Senior Technical Architect | Cloud · Full Stack · Integration · AIOps | AWS · Java · Spring</h3>
+<h3 align="center">Cloud Architect | AIOps & SRE Observability | AWS Migration & Data Engineering | GenAI</h3>
 
 <p align="center">
   <i>Modernizing enterprise systems into secure, scalable, cloud-native architectures on AWS</i>
@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-20%2B%20years-5F88E0?style=flat-square" alt="20+ years of experience"/>
-  <img src="https://img.shields.io/badge/Certifications-8-5F88E0?style=flat-square" alt="8 certifications"/>
-  <img src="https://img.shields.io/badge/Location-Atlanta%20area%20(Alpharetta)%2C%20GA-01143E?style=flat-square" alt="Atlanta area (Alpharetta), GA"/>
+  <img src="https://img.shields.io/badge/AWS%20Certified-3%20active-5F88E0?style=flat-square" alt="3 active AWS certifications"/>
+  <img src="https://img.shields.io/badge/Location-Alpharetta%2C%20GA-01143E?style=flat-square" alt="Alpharetta, GA"/>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 -  Passionate about cloud-native architecture, enterprise integration, and data engineering on AWS
 -  Currently implementing AIOps for SRE observability and exploring GenAI/RAG on AWS and agentic AI
 -  Always happy to collaborate on cloud modernization, integration, and data platforms
--  Open to conversations about **Technical Architect, Cloud Architect, Integration Lead, and AIOps/CloudOps** roles. See Connect below
+-  Open to conversations about **Cloud Architect, AIOps/SRE Observability, Cloud Migration, and Data Engineering** roles. See Connect below
 
 ###  About
 
@@ -42,7 +42,7 @@ Faith is at the center of my life. I try to live with purpose and to be salt and
 
 -  **20+ years** in software, building enterprise systems since 2005
 -  Delivered for clients across the **US, India, the Netherlands** (Amstelveen), **Denmark** (Copenhagen), and the **UK** (Cardiff, Wales)
--  **8 professional certifications** across AWS, MuleSoft, and SAP
+-  **3 active AWS certifications** (GenAI Developer – Professional, Data Engineer – Associate, AI Practitioner), plus 5 earlier AWS, MuleSoft, and SAP certifications
 -  **Hexaware Learning Ambassador** and **Hexaware MVP**
 -  Recognized by **Hexavarsity Americas** (2026) for leadership, mentoring, and knowledge sharing
 -  Mentor colleagues on AWS, GenAI/RAG, and cloud migration
@@ -51,10 +51,13 @@ Faith is at the center of my life. I try to live with purpose and to be salt and
 
 ###  What I Do
 
-- **Cloud migration & modernization**: re-platforming legacy batch workloads onto AWS with CloudFormation, Docker, Airflow, Step Functions, AWS Batch, ECS Fargate, and Glue
+- **Cloud migration & modernization**: re-platforming legacy batch workloads onto AWS with CloudFormation, Docker, Step Functions, AWS Batch, ECS Fargate, and Glue
 - **Full-stack development**: Java, Spring Boot, microservices, REST APIs, JavaScript frameworks, and CI/CD
 - **Data engineering & integration**: ETL/ELT pipelines on Glue, Lambda, S3, RDS/Aurora, and DynamoDB, plus messaging with SQS, SNS, IBM MQ, Apache Storm, and MuleSoft
 - **AIOps & observability**: implementing dynamic thresholding, anomaly detection, and adaptive baselines using time-series analysis and z-score bands, along with alert correlation and noise reduction through alert-storm suppression, a service dependency graph, and time-window correlation
+- **Migration strategy**: 7 Rs (rehost, replatform, refactor), AWS Migration Acceleration Program (MAP) practices, AWS DMS, and wave planning
+- **Resilience & DR**: high availability with multi-AZ deployments, backup and restore, and RTO/RPO-driven disaster recovery
+- **GenAI / LLMOps**: Amazon Bedrock (Knowledge Bases, Prompt Management, Prompt Flows), RAG, vector databases, evaluation, and guardrails
 - **Technical leadership**: leading cross-functional teams across development, cloud, QA, AIOps, and data
 
 ###  Featured Work
@@ -107,15 +110,13 @@ SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order
 
 | Period | Role | Company | Key clients / work |
 | --- | --- | --- | --- |
-| Jan 2026 – Present | Senior Technical Architect | Hexaware Technologies | AIOps implementation for observability and monitoring in SRE at Freddie Mac Global Operations Center |
-| Jun 2022 – Dec 2025 | Senior Technical Architect | Hexaware Technologies | Lead architect for enterprise cloud/full-stack delivery, incl. Fannie Mae Investor Reporting |
+| Jun 2022 – Present | Senior Technical Architect | Hexaware Technologies | Freddie Mac GOC AIOps for SRE observability (Jan 2026 – Present); Fannie Mae Investor Reporting, lead architect (May 2022 – Dec 2025) |
 | Sep 2017 – May 2022 | Technical Architect | Hexaware Technologies | FleetCor vendor & payment processing (Storm, Spring Batch, Lambda/SQS/DynamoDB); led offshore delivery |
-| May 2014 – Aug 2017 | Senior Lead Engineer | BORN | SAP Commerce/Hybris integration lead: Rodan + Fields, Greenlee (Textron), Biolase, Thomas Pink |
-| Jun 2013 – May 2014 | Technical Lead | Servion Global Solutions | Hilton Hotels IVR (Avaya, Spring, web services) |
-| Nov 2008 – May 2013 | Project Lead | CGI | ABN AMRO Bank IVR (Amstelveen, NL); UNFCCC registry platform (Cardiff, Wales) |
-| Feb 2011 – May 2012 | Migration Lead | Client engagement | PostNord Travel Route Planner (Copenhagen, DK) |
+| Jun 2014 – Aug 2017 | Senior Lead Engineer | BORN Group | SAP Commerce/Hybris: Rodan + Fields, Greenlee (Textron), Thomas Pink |
+| May 2013 – May 2014 | Technical Lead | Servion Global Solutions | Hilton Hotels IVR (Avaya, Spring, web services) |
+| Nov 2008 – May 2013 | Project Lead | CGI (formerly Logica) | ABN AMRO Bank IVR (Mar 2012 – May 2013, Amstelveen, NL); PostNord Travel Route Planner, migration lead (Feb 2009 – Mar 2012, Copenhagen, DK); UNFCCC carbon trading (Nov 2008 – Feb 2009, Cardiff, Wales) |
 | Sep 2007 – Oct 2008 | Team Lead | Merrill Lynch (now Bank of America) | Electronic trading / order management (Mumbai) |
-| Mar 2005 – Aug 2007 | Sr Software Engineer | Aspire Systems | Biz Apollo / Biz-2-Me reward engines; VCAMPUS LMS |
+| Mar 2005 – Aug 2007 | Sr Software Engineer | Aspire Systems | Biz Apollo / Biz-2-Me rewards engine |
 
 ###  Tech Stack
 
@@ -124,7 +125,6 @@ SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Storm](https://img.shields.io/badge/Apache%20Storm-225593?style=for-the-badge&logo=apachestorm&logoColor=white)
 ![SAP Commerce](https://img.shields.io/badge/SAP%20Commerce-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=for-the-badge)
