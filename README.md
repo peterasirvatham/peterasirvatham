@@ -38,25 +38,25 @@ I grew up in a small village in South Tamil Nadu, India, where games like *Ball 
 
 Faith is at the center of my life. I try to live with purpose and to be salt and light wherever I go, and I'm grateful for every step of the journey.
 
-### 🏆 Achievements
+###  Achievements
 
-- 🗓️ **20+ years** in software, building enterprise systems since 2005
-- 🌍 Delivered for clients across the **US, India, the Netherlands** (Amstelveen), **Denmark** (Copenhagen), and the **UK** (Cardiff, Wales)
-- 🏅 **8 professional certifications** across AWS, MuleSoft, and SAP
-- 🏆 **Hexaware Learning Ambassador** and **Hexaware MVP**
-- 🌟 Recognized by **Hexavarsity Americas** (2026) for leadership, mentoring, and knowledge sharing
-- 🧑‍🏫 Mentor colleagues on AWS, GenAI/RAG, and cloud migration
-- 📚 Published free study notes for the AWS GenAI Developer – Professional and AI Practitioner exams, used by exam candidates
-- ☁️ Redesigned my personal website and host it on AWS
+-  **20+ years** in software, building enterprise systems since 2005
+-  Delivered for clients across the **US, India, the Netherlands** (Amstelveen), **Denmark** (Copenhagen), and the **UK** (Cardiff, Wales)
+-  **8 professional certifications** across AWS, MuleSoft, and SAP
+-  **Hexaware Learning Ambassador** and **Hexaware MVP**
+-  Recognized by **Hexavarsity Americas** (2026) for leadership, mentoring, and knowledge sharing
+-  Mentor colleagues on AWS, GenAI/RAG, and cloud migration
+-  Published free study notes for the AWS GenAI Developer – Professional and AI Practitioner exams, used by exam candidates
+-  Redesigned my personal website and host it on AWS
 
-### 🧩 What I Do
+###  What I Do
 
 - **Cloud migration & modernization**: re-platforming legacy batch workloads onto AWS with CloudFormation, Docker, Airflow, Step Functions, AWS Batch, ECS Fargate, and Glue
 - **Full-stack development**: Java, Spring Boot, microservices, REST APIs, JavaScript frameworks, and CI/CD
 - **Data engineering & integration**: ETL/ELT pipelines on Glue, Lambda, S3, RDS/Aurora, and DynamoDB, plus messaging with SQS, SNS, IBM MQ, Apache Storm, and MuleSoft
 - **Technical leadership**: leading cross-functional teams across development, cloud, QA, DevOps, and data
 
-### 🚀 Featured Work
+###  Featured Work
 
 **Fannie Mae Investor Reporting: Cloud Microservices on AWS**<br/>
 Spring Boot microservices and REST APIs on ECS Fargate with SQS and DynamoDB; authentication and role-based access control; batch/ETL reporting workloads.
@@ -67,12 +67,12 @@ Large-scale vendor processing with Apache Storm and Spring Batch; Lambda, SQS, a
 **SAP Commerce / MuleSoft Integration: Rodan + Fields & Greenlee**<br/>
 SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order integration, and Avalara tax services.
 
-### 📝 Writing
+###  Writing
 
 - **Tech notes:** [AWS Certified Generative AI Developer – Professional (AIP-C01) study notes](https://peterasirvatham.com/tpages/GenAI-AIP-C01.html) · [AWS Certified AI Practitioner (AIF-C01) notes](https://peterasirvatham.com/tpages/aif-c01.html)
 - **Faith & reflections:** [The Identity](https://peterasirvatham.com/pages/theidentity.html) · [Nehemiah's Rebuild](https://peterasirvatham.com/pages/rebuild.html) · [Stand Still](https://peterasirvatham.com/pages/standstill.html)
 
-### 🏅 Certifications
+###  Certifications
 
 <p align="left">
   <img src="https://images.credly.com/size/120x120/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer – Professional" width="100"/>
@@ -99,7 +99,7 @@ SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order
 
 </details>
 
-### 💼 Experience
+###  Experience
 
 | Period | Role | Company | Key clients / work |
 | --- | --- | --- | --- |
@@ -112,7 +112,7 @@ SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order
 | Sep 2007 – Oct 2008 | Team Lead | Merrill Lynch (now Bank of America) | Electronic trading / order management (Mumbai) |
 | Mar 2005 – Aug 2007 | Sr Software Engineer | Aspire Systems | Biz Apollo / Biz-2-Me reward engines; VCAMPUS LMS |
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -135,13 +135,13 @@ SAP Commerce (Hybris) B2B/B2C integrations with Okta SSO, MuleSoft, SAP-PI order
 ![AWS SQS / SNS](https://img.shields.io/badge/AWS-SQS%20%2F%20SNS-FF9900?style=for-the-badge&labelColor=232F3E)
 ![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-FF9900?style=for-the-badge&labelColor=232F3E)
 
-### 🎓 Education
+###  Education
 
 - **Master of Computer Applications (MCA)**, MK University, Tamil Nadu, India
 - **Bachelor's in Computer Science**, MK University, Tamil Nadu, India
 - **Certificate in Theology (Evangelism and Discipleship)**, Global University India
 
-### 🤝 Connect
+###  Connect
 
 <p align="left">
   <a href="https://peterasirvatham.com"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
