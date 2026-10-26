@@ -26,13 +26,13 @@
 
 ---
 
-- 👋 Hi there, I'm **Peter**, a Senior Technical Architect at Hexaware Technologies
-- 👀 Passionate about cloud-native architecture, enterprise integration, and data engineering on AWS
-- 🌱 Currently exploring GenAI/RAG on AWS and agentic AI
-- 💞️ Always happy to collaborate on cloud modernization, integration, and data platforms
-- 📫 Open to conversations about **Technical Architect, Cloud Architect, Integration Lead, and DevOps/CloudOps** roles. See Connect below
+-  Hi there, I'm **Peter**, a Senior Technical Architect at Hexaware Technologies
+-  Passionate about cloud-native architecture, enterprise integration, and data engineering on AWS
+-  Currently exploring GenAI/RAG on AWS and agentic AI
+-  Always happy to collaborate on cloud modernization, integration, and data platforms
+-  Open to conversations about **Technical Architect, Cloud Architect, Integration Lead, and DevOps/CloudOps** roles. See Connect below
 
-### 🙋 About
+###  About
 
 I grew up in a small village in South Tamil Nadu, India, where games like *Ball & Paddle*, *Dave*, and *Bricks* made me curious about how software is built. My first real project was my own version of Ball & Paddle. That curiosity grew into a career building enterprise systems for banking, trading, eCommerce, hospitality, payments, and mortgage finance clients, and today I lead architecture for cloud and full-stack delivery.
 
